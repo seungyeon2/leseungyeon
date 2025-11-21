@@ -44,5 +44,5 @@
 
 <div align="center">
   Build with ❤️ by <b>Seungyeon Lee</b><br>
-  Last Updated: 2025.
+  Last Updated: 2025.11.
 </div>
